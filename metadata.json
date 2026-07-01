@@ -1,0 +1,6 @@
+{
+  "name": "Elegant IT Portfolio",
+  "description": "A highly-animated, professional IT portfolio with rotatable 3D project gallery, automatic dark mode, multi-language support, and interactive notification center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
