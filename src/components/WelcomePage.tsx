@@ -38,13 +38,13 @@ export default function WelcomePage({ onEnter, developerName, developerRole }: W
   // Boot up process
   useEffect(() => {
     const diagnosticMessages = [
-      '⚡ CONNECTING TO PORT 3000 CONSOLE MATRIX...',
-      '🔒 ENGAGING END-TO-END CRYPTO HANDSHAKE...',
-      '🧠 FETCHING ADVANCED ARCHITECTURE METADATA...',
-      '📊 SYNCHRONIZING REAL-TIME PORTFOLIO STORES...',
-      '🎨 MOUNTING HIGH-CONTRAST NEURAL WORKSPACE...',
-      '🎯 STABILIZING FLUID GYROSCOPES AND 3D GRAPHICS...',
-      '✅ PROTOCOL VERIFIED. QUANTUM SIGNALS FULLY LOCKED.'
+      'CONNECTING TO PORT 3000 CONSOLE MATRIX...',
+      'ENGAGING END-TO-END CRYPTO HANDSHAKE...',
+      'FETCHING ADVANCED ARCHITECTURE METADATA...',
+      'SYNCHRONIZING REAL-TIME PORTFOLIO STORES...',
+      'MOUNTING HIGH-CONTRAST NEURAL WORKSPACE...',
+      'STABILIZING FLUID GYROSCOPES AND 3D GRAPHICS...',
+      'PROTOCOL VERIFIED. QUANTUM SIGNALS FULLY LOCKED.'
     ];
 
     let logIndex = 0;
@@ -73,7 +73,7 @@ export default function WelcomePage({ onEnter, developerName, developerRole }: W
   useEffect(() => {
     if (stage !== 'authorized') return;
 
-    const message = `WELCOME TO THE CREATIVE LAB OF MUHAMMAD SYUBAN. ALL SYSTEM CORE MODULES ARE ONLINE. DIRECT PROTOCOL GRANTED.`;
+    const message = ` WELCOME TO THE CREATIVE LAB OF FIRDY RIDHO FILLAH. ALL SYSTEM CORE MODULES ARE ONLINE. DIRECT PROTOCOL GRANTED.`;
     let charIdx = 0;
     const typingInterval = setInterval(() => {
       if (charIdx < message.length) {
