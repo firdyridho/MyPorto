@@ -136,7 +136,7 @@ export const translations: Record<string, Translation> = {
     settings: 'Settings',
 
     heroTitle: 'Crafting Modern IT Architectures with Exceptional Polish',
-    heroSubtitle: 'Hi, I’m a Full-Stack IT Architect & UI Engineer specializing in fast, reactive, and visually stunning applications that turn complex systems into effortless software.',
+    heroSubtitle: 'Hi, I’m Firdy Ridho Fillah I’m a Juniar Full-Stack IT Architect & UI Engineer specializing in fast, reactive, and visually stunning applications that turn complex systems into effortless software.',
     heroCTA: 'Explore Projects',
     heroResume: 'Download CV',
     yearsOfExperience: 'Years Experience',
