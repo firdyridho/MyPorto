@@ -196,7 +196,7 @@ export default function WelcomePage({ onEnter, developerName, developerRole }: W
               className="w-full flex flex-col sm:flex-row justify-between items-center gap-4"
             >
               <div className="text-[11px] text-neutral-500 flex flex-col">
-                <span className="uppercase tracking-widest text-neutral-400 font-bold">Muhammad Syuban</span>
+                <span className="uppercase tracking-widest text-neutral-400 font-bold">Firdy Ridho Fillah</span>
                 <span>{developerRole}</span>
               </div>
 
